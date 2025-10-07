@@ -27,9 +27,12 @@ En este espacio comparto mis estudios y proyectos en SQL.
 ---
 
 <h3>🛠 Habilidades técnicas en SQL</h3>
-
-- Consultas: `SELECT`, `JOIN`, `WHERE`, `GROUP BY`, `ORDER BY`  
-- Creación de tablas y relaciones  
-- Consultas de agregación y subconsultas  
+<ul>
+  <li><strong>DDL (Data Definition Language):</strong> CREATE DATABASE, CREATE TABLE, ALTER TABLE, DROP TABLE.</li>
+  <li><strong>DML (Data Manipulation Language):</strong> INSERT INTO, SELECT, UPDATE, DELETE.</li>
+  <li><strong>Constraints y claves:</strong> PRIMARY KEY, FOREIGN KEY, NOT NULL, DEFAULT.</li>
+  <li><strong>Tipos de datos SQL:</strong> VARCHAR, INT, DECIMAL, TIMESTAMP, etc.</li>
+  <li><strong>Administración básica de usuarios y permisos.</strong></li>
+</ul>
 
 ---
