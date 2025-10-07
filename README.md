@@ -22,7 +22,7 @@
 Actualmente soy alumna del 2º período de la FP de Desarrollo de Plataformas Web y tengo interés en seguir progresando en el área de datos.  Tengo formación anterior en el área de negocios, 
 donde trabajé durante 12 años.  Ahora estoy reenfocando mi carrera hacia la tecnología, donde cuento con 1 año de experiencia como desarrolladora de BI.  
 
-En este espacio comparto mis estudios y proyectos en SQL.
+En este espacio comparto mis proyectos y prácticas en SQL, reflejo de mi aprendizaje y evolución profesional.
 
 ---
 
