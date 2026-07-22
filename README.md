@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-  <span style="color:#F4D03F;">🎯 Analista de Datos | Desarrolladora BI</span>
+  <span style="color:#F4D03F;"> Analista de Datos | Business Intelligence (BI) </span>
 </h3>
 
 
@@ -19,8 +19,7 @@
 
 ¡Bienvenido a mi portfolio de SQL!  
 
-Actualmente soy alumna del 2º período de la FP de Desarrollo de Plataformas Web y tengo interés en seguir progresando en el área de datos.  Tengo formación anterior en el área de negocios, 
-donde trabajé durante 12 años.  Ahora estoy reenfocando mi carrera hacia la tecnología, donde cuento con 1 año de experiencia como desarrolladora de BI.  
+Soy Analista de Datos con experiencia en Business Intelligence, análisis de procesos y reporting. Con visión de negocio y habilidades de análisis, diseño y desarrollo soluciones con Power BI, SQL, DAX y Microsoft Fabric para transformar datos en decisiones que generen valor, mejoren la eficiencia o resuelvan problemas. Curiosa por naturaleza, sigo aprendiendo porque siempre hay otros caminos, nuevas tecnologías y otros puntos de vista que suman a lo que construyo.
 
 En este espacio comparto mis proyectos y prácticas en SQL, reflejo de mi aprendizaje y evolución profesional.
 
