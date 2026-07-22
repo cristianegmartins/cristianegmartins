@@ -17,7 +17,7 @@
 
 
 
-¡Bienvenido a mi portfolio de SQL!  
+¡Bienvenido a mi portafolio de SQL!  
 
 Soy Analista de Datos con experiencia en Business Intelligence, análisis de procesos y reporting. Con visión de negocio y habilidades de análisis, diseño y desarrollo soluciones con Power BI, SQL, DAX y Microsoft Fabric para transformar datos en decisiones que generen valor, mejoren la eficiencia o resuelvan problemas. Curiosa por naturaleza, sigo aprendiendo porque siempre hay otros caminos, nuevas tecnologías y otros puntos de vista que suman a lo que construyo.
 
