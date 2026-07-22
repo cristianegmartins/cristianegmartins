@@ -25,13 +25,5 @@ En este espacio comparto mis proyectos y prácticas en SQL, reflejo de mi aprend
 
 ---
 
-<h3>🛠 Habilidades técnicas en SQL</h3>
-<ul>
-  <li><strong>DDL (Data Definition Language):</strong> CREATE DATABASE, CREATE TABLE, ALTER TABLE, DROP TABLE.</li>
-  <li><strong>DML (Data Manipulation Language):</strong> INSERT INTO, SELECT, UPDATE, DELETE.</li>
-  <li><strong>Constraints y claves:</strong> PRIMARY KEY, FOREIGN KEY, NOT NULL, DEFAULT.</li>
-  <li><strong>Tipos de datos SQL:</strong> VARCHAR, INT, DECIMAL, TIMESTAMP, etc.</li>
-  <li><strong>Administración básica de usuarios y permisos.</strong></li>
-</ul>
 
----
+
