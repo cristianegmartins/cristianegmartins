@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-  <span style="color:#F4D03F;"> Analista de Datos | Business Intelligence (BI) </span>
+  <span style="color:#F4D03F;"> Analista de Datos y Sistemas Empresariales | SQL | ETL | Bases de Datos | Power BI </span>
 </h3>
 
 
@@ -19,9 +19,7 @@
 
 ¡Bienvenido a mi portafolio!  
 
-Soy Analista de Datos con experiencia en Business Intelligence, análisis de procesos y reporting. Con visión de negocio y habilidades de análisis, diseño y desarrollo soluciones con Power BI, SQL, DAX y Microsoft Fabric para transformar datos en decisiones que generen valor, mejoren la eficiencia o resuelvan problemas. Curiosa por naturaleza, sigo aprendiendo porque siempre hay otros caminos, nuevas tecnologías y otros puntos de vista que suman a lo que construyo.
-
-En este espacio comparto mis proyectos de análisis de datos y prácticas en SQL.
+Experiencia en análisis y transformación de datos, modelado de bases de datos y sistemas empresariales. En este portfolio comparto proyectos relacionados con SQL, PostgreSQL, MySQL, ETL, Power BI y análisis de datos.
 
 ---
 
